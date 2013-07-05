@@ -1,0 +1,54 @@
+Partlist
+
+Exported from ATM8_mainboard.sch at 7. 6. 2013 9:59:57
+
+EAGLE Version 6.4.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part        Value          Device          Package      Library   Sheet
+
+4BITOT1     FEMALE         MA05-1          MA05-1       con-lstb  1
+4BITOT2     FEMALE         MA05-1          MA05-1       con-lstb  1
+C1          22p            C-EU025-024X044 C025-024X044 resistor  1
+C2          22p            C-EU025-024X044 C025-024X044 resistor  1
+C3          22p            C-EU025-024X044 C025-024X044 resistor  1
+C4          22p            C-EU025-024X044 C025-024X044 resistor  1
+DISP_1      MALE           MA04-1          MA04-1       con-lstb  1
+DISP_2      MALE           MA04-1          MA04-1       con-lstb  1
+FREE1       FEMALE         MA05-1          MA05-1       con-lstb  1
+FREE2       MALE           JP1E            JP1          jumper    1
+IC1_POSUV   MEGA8-P        MEGA8-P         DIL28-3      atmel     1
+IC2_VRETENO MEGA8-P        MEGA8-P         DIL28-3      atmel     1
+INPUTCNC    FEMALE         MA05-1          MA05-1       con-lstb  1
+ISP         MALE           MA03-2          MA03-2       con-lstb  1
+ISP1        MALE           MA03-2          MA03-2       con-lstb  1
+J1          22-27-2021-02  22-27-2021-02   6410-02      con-molex 1
+J2          22-27-2021-02  22-27-2021-02   6410-02      con-molex 1
+LPT1        FEMALE         MA07-1          MA07-1       con-lstb  1
+LPT2        FEMALE         MA07-1          MA07-1       con-lstb  1
+Q1                         CRYSTALHC49S    HC49/S       crystal   1
+Q2                         CRYSTALHC49S    HC49/S       crystal   1
+R1          10k            R-EU_0207/7     0207/7       resistor  1
+R2          10k            R-EU_0207/7     0207/7       resistor  1
+R3          4.7k           R-EU_0207/10    0207/10      resistor  1
+R4          4.7k           R-EU_0207/10    0207/10      resistor  1
+R5          4.7k           R-EU_0207/10    0207/10      resistor  1
+R6          4.7k           R-EU_0207/10    0207/10      resistor  1
+R7          270R           R-EU_0207/10    0207/10      resistor  1
+R8          270R           R-EU_0207/10    0207/10      resistor  1
+R9          270R           R-EU_0207/10    0207/10      resistor  1
+R10                        R-EU_0207/10    0207/10      resistor  1
+R11         270R           R-EU_0207/10    0207/10      resistor  1
+R12         270R           R-EU_0207/10    0207/10      resistor  1
+R13         270R           R-EU_0207/10    0207/10      resistor  1
+R14         270R           R-EU_0207/10    0207/10      resistor  1
+R15         270R           R-EU_0207/10    0207/10      resistor  1
+R16         270R           R-EU_0207/10    0207/10      resistor  1
+R17         270R           R-EU_0207/10    0207/10      resistor  1
+R18         270R           R-EU_0207/10    0207/10      resistor  1
+SV1         FEMALE         MA03-1          MA03-1       con-lstb  1
+SV2         FEMALE         MA03-1          MA03-1       con-lstb  1
+SV4         FEMALE         MA04-1          MA04-1       con-lstb  1
+XPM         FEMALE         MA03-1          MA03-1       con-lstb  1
+ZPM         FEMALE         MA03-1          MA03-1       con-lstb  1
