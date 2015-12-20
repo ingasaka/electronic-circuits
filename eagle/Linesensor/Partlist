@@ -1,0 +1,36 @@
+Partlist
+
+Exported from V0.1.sch at 6. 10. 2015 10:33:38
+
+EAGLE Version 6.3.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part     Value          Device          Package      Library  Sheet
+
+IC1      CNY70          CNY70           CNY70        CNY70    1
+IC2      CNY70          CNY70           CNY70        CNY70    1
+IC3      CNY70          CNY70           CNY70        CNY70    1
+IC4      CNY70          CNY70           CNY70        CNY70    1
+IC5      LM339D         LM339D          SO14         linear   1
+LED1     GREEN          LEDCHIP-LED0805 CHIP-LED0805 led      1
+LED2     GREEN          LEDCHIP-LED0805 CHIP-LED0805 led      1
+LED3     GREEN          LEDCHIP-LED0805 CHIP-LED0805 led      1
+LED4     GREEN          LEDCHIP-LED0805 CHIP-LED0805 led      1
+R1       470R           R-EU_M0805      M0805        resistor 1
+R2       100k           R-EU_M0805      M0805        resistor 1
+R3       470R           R-EU_M0805      M0805        resistor 1
+R4       100k           R-EU_M0805      M0805        resistor 1
+R5       470R           R-EU_M0805      M0805        resistor 1
+R6       100k           R-EU_M0805      M0805        resistor 1
+R7       470R           R-EU_M0805      M0805        resistor 1
+R8       100k           R-EU_M0805      M0805        resistor 1
+R9       470R           R-EU_M0805      M0805        resistor 1
+R10      470R           R-EU_M0805      M0805        resistor 1
+R11      470R           R-EU_M0805      M0805        resistor 1
+R12      470R           R-EU_M0805      M0805        resistor 1
+R13      10k            R-TRIMM3202     RTRIM3202    resistor 1
+R14      10k            R-TRIMM3202     RTRIM3202    resistor 1
+R15      10k            R-TRIMM3202     RTRIM3202    resistor 1
+R16      10k            R-TRIMM3202     RTRIM3202    resistor 1
+SV1      6PIN_MALE      FE06-1          FE06         con-lsta 1
