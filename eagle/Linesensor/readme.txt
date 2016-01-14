@@ -13,3 +13,6 @@ PINY:
 4 - OUT 3 - from IC3
 5 - GND
 6 - V+(max.+5V)
+
+
+Video nahlad: https://www.youtube.com/watch?v=R8Qme-guCv8
